@@ -1,1 +1,1 @@
-# San-Francisco-City-Employee-Salary-DataSet-Analysis
+In this project we analyse the salary of employees. We try to find out the Unique Job available in San Francisco city. Also Minimum, Maximum, and Average BasePay of an employee. Average BasePay of All Employee Per Year and Average BasePay of All Employee Per JobTitle.
